@@ -50,10 +50,7 @@ Project of ChenShen/
 │   ├── tests/ · docs/ · examples/
 │   └── README.md               # 统一 CLI：dsh-assistant voice|camel
 │
-├── 陈深的世界/                   # ★ 互动叙事游戏（典藏版）
-│   ├── game/                   # index.html 主菜单 / world.html / story.html
-│   ├── README.md · README.en.md
-│   └── ScreenShot_*.png
+├── （《陈深的世界》已迁出为独立仓库 → GAME-CHENSHEN-S-WORLD）
 │
 ├── 大模型与计算机科学技术笔记/   # ★ 6 份核心笔记 + README 索引
 ├── Python全章节学习笔记/
@@ -96,7 +93,9 @@ pip install -e "助手与智能体（DeepSeek·CAMEL）"
 dsh-assistant voice
 
 # 打开《陈深的故事》
-start 陈深的世界/game/index.html
+# 打开《陈深的世界》—— 已迁至独立仓库
+# git clone https://github.com/380992846-tech/GAME-CHENSHEN-S-WORLD.git
+# 然后双击 GAME-CHENSHEN-S-WORLD/game/index.html
 ```
 
 ---
